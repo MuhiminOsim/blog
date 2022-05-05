@@ -1,4 +1,7 @@
-##Competitive Programming, Academic Studies and the Myth
+---
+title: Competitive Programming, Academic Studies and the Myth
+date: 2022-05-05 
+---
 ###Muhiminul Islam Osim (CSE’16, KUET)
 ###Ex-president, SGIPC, KUET
 Hello Coders!
