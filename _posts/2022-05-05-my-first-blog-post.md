@@ -2,8 +2,7 @@
 title: "Competitive Programming, Academic Studies and the Myth"
 date: 2022-05-05 
 ---
-###Muhiminul Islam Osim (CSE’16, KUET)
-###Ex-president, SGIPC, KUET
+
 Hello Coders!
 
 If you are interested in competitive programming (CP) and you are a current university student, then you should read this post. The main motivation of this article is to break the common myth about academic studies and CP. As I was not so terrible in both academic studies and CP, I hope you may find this article credible and dependable! :)
